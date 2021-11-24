@@ -1,4 +1,3 @@
-#GUI Calculator Program
 from tkinter import *
 
 state_plu = ["O"]               #                 State Representation to check if operand button is pressed or not
